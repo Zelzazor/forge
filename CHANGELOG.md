@@ -1,7 +1,7 @@
 Forge ChangeLog
 ===============
 
-## 1.4.0 - 2026-xx-xx
+## 1.4.1 - 2026-xx-xx
 
 ### Security
 - **HIGH**: Signature forgery in RSA-PKCS due to incomplete `DigestInfo` fix.
